@@ -1,1 +1,1 @@
-# Mate-Ing-1-Bot
+# Chatbot para estudiantes del curso Matemática para ingeniería
